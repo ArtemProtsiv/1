@@ -1,0 +1,79 @@
+body {
+  background-color: #E5E5E5;
+  padding: 40px;
+}
+
+.page-header{
+
+}
+
+.menu-item {
+  list-style: none;
+}
+
+.list {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.logo-link {
+  text-decoration: none;
+  font-family: "Raleway";
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 0, 75;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+  margin: 24px 1169px 24px 156px;
+}
+
+.phone-nomber {
+  text-decoration: none;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 0, 66;
+  letter-spacing: 0.02em;
+}
+
+.email {
+  text-decoration: none;
+  font-family: "Roboto";
+  
+
+}
+
+.menu-link {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 0, 66;
+  letter-spacing: 0.02em;
+}
+
+.modal-btn {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 16px 32px;
+  gap: 10px;
+  background: #4d5ae5;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+}
+
+.hero-image {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 0, 93;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: black;
+}
